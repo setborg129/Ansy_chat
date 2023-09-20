@@ -7,6 +7,7 @@ from utils import send_message, get_message
 DEFAULT_IP_ADDRES = 'localhost'
 
 
+
 def create_presence(acc_name='Guest'):
     msg_out = {
         ACTION: PRESENCE,

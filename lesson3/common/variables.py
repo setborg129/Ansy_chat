@@ -10,6 +10,8 @@ ENCODING = 'utf-8'
 
 
 
+
+
 # Протокол JIM основные ключи:
 
 ACTION = 'action'

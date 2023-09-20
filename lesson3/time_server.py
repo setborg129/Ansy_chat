@@ -7,6 +7,7 @@ from common.variables import DEFAULT_PORT, RESPONSE, ACTION, PRESENCE, ERROR, TI
 # " Программа для сервера
 
 
+
 def process_client_message(message):
     if ACTION in message and message[ACTION] == PRESENCE and TIME  in message and USER in message and message[USER][ACCOUNT_NAME] == "Guest":
         return {RESPONSE: 200}
