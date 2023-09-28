@@ -1,0 +1,8 @@
+Получен запрос на сооединение от клиента ('127.0.0.1', 45690), <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 45690)>
+сообщение от клиента - {'action': 'presence', 'time': 1695817328.1559331, 'user': {'account_name': 'Guest'}} 
+
+Принято не корректное сообщение от клиента !
+Получен запрос на сооединение от клиента ('127.0.0.1', 37398), <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 37398)>
+сообщение от клиента - {'action': 'presence', 'time': 1695817374.4888425, 'user': {'account_name': 'Guest'}} 
+
+Принято не корректное сообщение от клиента !
