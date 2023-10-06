@@ -1,0 +1,22 @@
+Сервер запущен, по умолчанию порт - 8887
+Получен запрос на сооединение от клиента ('127.0.0.1', 60974), <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 60974)>
+сообщение от клиента - {'action': 'presence', 'time': 1695818989.1200805, 'user': {'account_name': 'Guest'}} 
+
+Получен запрос на сооединение от клиента ('127.0.0.1', 60976), <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 60976)>
+сообщение от клиента - {'action': 'presence', 'time': 1695818991.123837, 'user': {'account_name': 'Guest'}} 
+
+Получен запрос на сооединение от клиента ('127.0.0.1', 60986), <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 60986)>
+сообщение от клиента - {'action': 'presence', 'time': 1695818993.1291022, 'user': {'account_name': 'Guest'}} 
+
+Получен запрос на сооединение от клиента ('127.0.0.1', 58138), <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 58138)>
+сообщение от клиента - {'action': 'presence', 'time': 1695818995.1333122, 'user': {'account_name': 'Guest'}} 
+
+Получен запрос на сооединение от клиента ('127.0.0.1', 58146), <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 58146)>
+сообщение от клиента - {'action': 'presence', 'time': 1695818997.1373663, 'user': {'account_name': 'Guest'}} 
+
+Получен запрос на сооединение от клиента ('127.0.0.1', 58162), <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 58162)>
+сообщение от клиента - {'action': 'presence', 'time': 1695818999.1413138, 'user': {'account_name': 'Guest'}} 
+
+Получен запрос на сооединение от клиента ('127.0.0.1', 58176), <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 58176)>
+сообщение от клиента - {'action': 'presence', 'time': 1695819001.1451235, 'user': {'account_name': 'Guest'}} 
+

@@ -1,0 +1,4 @@
+Получен запрос на сооединение от клиента ('127.0.0.1', 54640), <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 54640)>
+сообщение от клиента - {'action': 'presence', 'time': 1695817443.9640334, 'user': {'account_name': 'Guest'}} 
+
+Принято не корректное сообщение от клиента !
