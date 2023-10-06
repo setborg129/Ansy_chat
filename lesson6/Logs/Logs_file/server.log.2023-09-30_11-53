@@ -1,0 +1,113 @@
+Сервер запущен, по умолчанию порт - 8887
+Получен запрос на сооединение от клиента ('127.0.0.1', 37214), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 37214)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056803.512612, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056803.512612, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 37216), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 37216)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056805.5196652, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056805.5196652, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 37220), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 37220)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056807.524559, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056807.524559, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 37234), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 37234)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056809.530094, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056809.530094, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 52832), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 52832)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056811.5370355, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056811.5370355, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 52840), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 52840)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056813.541675, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056813.541675, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 52852), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 52852)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056815.545911, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056815.545911, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 52860), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 52860)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056817.5516753, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056817.5516753, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 52872), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 52872)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056819.5564158, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056819.5564158, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 50540), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 50540)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056821.5617213, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056821.5617213, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 50542), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 50542)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056823.5703216, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056823.5703216, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 50558), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 50558)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056825.5803752, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056825.5803752, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 50560), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 50560)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056827.5858598, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056827.5858598, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 50570), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 50570)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056829.5896027, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056829.5896027, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 40418), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 40418)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056831.59382, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056831.59382, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 40428), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 40428)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056833.599941, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056833.599941, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 40436), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 40436)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056835.603848, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056835.603848, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 40440), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 40440)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056837.6090457, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056837.6090457, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 40456), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 40456)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056839.6130576, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056839.6130576, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 57884), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 57884)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056841.617499, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056841.617499, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 57896), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 57896)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056843.6220772, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056843.6220772, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 57912), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 57912)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056845.6298366, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056845.6298366, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 57924), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 57924)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056847.6364253, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056847.6364253, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 57938), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 57938)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056849.6407528, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056849.6407528, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 43138), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 43138)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056851.6458127, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056851.6458127, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 43144), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 43144)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056853.6514442, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056853.6514442, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 43148), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 43148)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056855.6581998, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056855.6581998, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
+Получен запрос на сооединение от клиента ('127.0.0.1', 43158), <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8887), raddr=('127.0.0.1', 43158)>
+сообщение от клиента - {'action': 'presence', 'time': 1696056857.6655269, 'user': {'account_name': 'Guest'}} 
+
+Была вызвана функция process_client_message, c параметрами ({'action': 'presence', 'time': 1696056857.6655269, 'user': {'account_name': 'Guest'}},) и {}.Вызов из модуля __main__. Вызов из Функции process_client_message(message_from_client).Вызов из функции <module>
